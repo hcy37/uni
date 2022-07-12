@@ -1,0 +1,1 @@
+<view><uni-calendar class="vue-ref" vue-id="509a3380-1" insert="{{false}}" data-ref="calendar" data-event-opts="{{[['^confirm',[['confirm']]]]}}" bind:confirm="__e" bind:__l="__l"></uni-calendar><button data-event-opts="{{[['tap',[['open',['$event']]]]]}}" bindtap="__e">打开日历</button></view>

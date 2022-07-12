@@ -1,0 +1,6 @@
+
+input{
+	border: 2rpx solid pink;
+	width: 400rpx;
+}
+

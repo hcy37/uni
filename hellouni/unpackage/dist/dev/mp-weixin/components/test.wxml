@@ -1,0 +1,1 @@
+<view>这是test主键<view>{{''+title+''}}</view><button data-event-opts="{{[['tap',[['send',['$event']]]]]}}" bindtap="__e">发送</button></view>

@@ -1,0 +1,1 @@
+<view>{{'b的数据为:'+num+''}}<button data-event-opts="{{[['tap',[['sd',['$event']]]]]}}" bindtap="__e">传值</button></view>

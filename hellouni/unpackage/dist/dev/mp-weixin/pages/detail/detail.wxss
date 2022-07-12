@@ -1,0 +1,22 @@
+
+.box{
+	width: 100px;
+	height: 100px;
+	background-color: pink;
+}
+.a-box{
+	width: 100px;
+	height: 100px;
+	background-color: red;
+}
+.box1{
+	width: 60px;
+	height: 60px;
+	background-color: blue;
+}
+.a-box1{
+	width: 60px;
+	height: 60px;
+	background-color: yellow;
+}
+

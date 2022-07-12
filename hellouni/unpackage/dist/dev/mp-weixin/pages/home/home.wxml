@@ -1,0 +1,1 @@
+<view>数据的学习<view>{{''+msg+''}}</view><view><view class="_ul"><block wx:for="{{list}}" wx:for-item="item" wx:for-index="__i0__" wx:key="id"><view class="_li"><text>{{item.id+":"}}</text><text>{{item.name}}</text></view></block></view></view><view><image src="{{isrc}}" alt class="_img"></image></view></view>
